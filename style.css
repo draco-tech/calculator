@@ -1,0 +1,8 @@
+.main{
+    background-color: #484848;
+}
+
+.navar{
+    display: flex;
+    flex-direction: row;
+}
